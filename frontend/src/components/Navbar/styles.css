@@ -1,0 +1,23 @@
+.navbar-container {
+    font-size: 24px;
+    color: white;
+    padding: 20px 40px 15px;
+}
+
+.home-container {
+    padding-left: 40px;
+}
+
+.home-container h1{
+    margin-top: 40px;
+    color: black;
+}
+
+.home-container p {
+    font-weight: 700;
+    color: gray;
+}
+
+.btn-container button{
+    color: white;
+}
